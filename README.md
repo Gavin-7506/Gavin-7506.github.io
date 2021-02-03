@@ -1,2 +1,2 @@
-# Gavin-7506.github.io-clcok
-时钟
+# 拟态时钟
+一个时钟demo
